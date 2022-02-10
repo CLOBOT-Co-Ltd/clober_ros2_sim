@@ -33,13 +33,13 @@ include_directories(
   ${GAZEBO_INCLUDE_DIRS}
 )
 
-install(
-  PROGRAMS
-    scripts/send_nav_msg.py
-    scripts/send_lift_request.py
-    scripts/scene_ev.py
-  DESTINATION lib/${PROJECT_NAME}
-)
+# install(
+#   PROGRAMS
+#     scripts/send_nav_msg.py
+#     scripts/send_lift_request.py
+#     scripts/scene_ev.py
+#   DESTINATION lib/${PROJECT_NAME}
+# )
 
 
 install(DIRECTORY
