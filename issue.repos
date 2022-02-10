@@ -1,0 +1,85 @@
+repositories:
+  clober:
+    type: git
+    url: https://github.com/ClobotLucy/clober.git
+    version: 629c30e51dd3519175e31633a978dbd67a9d6766
+  clober_msgs:
+    type: git
+    url: https://github.com/CLOBOT-Co-Ltd/clober_msgs.git
+    version: a576bcd45567dcf4e714027232f90f74ee26839d
+  clober_rmf:
+    type: git
+    url: https://github.com/ClobotLucy/clober_rmf.git
+    version: be8e035cb0c865ec545434a6e766194b837481f3
+  clober_ros2_ff:
+    type: git
+    url: https://github.com/CLOBOT-Co-Ltd/clober_ros2_ff.git
+    version: 7e709899de4f71a67b3fec68b95fbd84fab5f22b
+  clober_ros2_sim:
+    type: git
+    url: https://github.com/CLOBOT-Co-Ltd/clober_ros2_sim.git
+    version: 99d34cc120d76092a1aaeadf1748cb28b36a29ad
+  demonstrations/rmf_demos:
+    type: git
+    url: https://github.com/open-rmf/rmf_demos.git
+    version: 2371649188c608eb3191cb4cb829efa067202b6c
+  free_fleet:
+    type: git
+    url: https://github.com/open-rmf/free_fleet
+    version: 4ab24b70fb540620d903d60d42efbb6228f9560b
+  rmf/ament_cmake_catch2:
+    type: git
+    url: https://github.com/open-rmf/ament_cmake_catch2.git
+    version: 55f08ed4ccd655f55337b5ec2ef37070fe332888
+  rmf/rmf_battery:
+    type: git
+    url: https://github.com/open-rmf/rmf_battery.git
+    version: 1fa42779264b7b8cf35a260e1bf04fcf4af2d5e4
+  rmf/rmf_building_map_msgs:
+    type: git
+    url: https://github.com/open-rmf/rmf_building_map_msgs.git
+    version: c5e0352e2dfd3d11e4d292a1c2901cad867c1441
+  rmf/rmf_internal_msgs:
+    type: git
+    url: https://github.com/open-rmf/rmf_internal_msgs.git
+    version: 3620aa4b9fad349f43535128020e9ed7495242d8
+  rmf/rmf_ros2:
+    type: git
+    url: https://github.com/open-rmf/rmf_ros2.git
+    version: d3e6a55d98f644704fcb7b7fed53e4a9424a7424
+  rmf/rmf_simulation:
+    type: git
+    url: https://github.com/open-rmf/rmf_simulation.git
+    version: 5d0f65a4761a8fff7c775b2d3e5d26a4fb99c10b
+  rmf/rmf_task:
+    type: git
+    url: https://github.com/open-rmf/rmf_task.git
+    version: a548bacb2b5ede18a7cb5a9e40322a1b808d39be
+  rmf/rmf_traffic:
+    type: git
+    url: https://github.com/open-rmf/rmf_traffic.git
+    version: 8941e062d51f6b04021118a22026b8cd2ac5bcf2
+  rmf/rmf_traffic_editor:
+    type: git
+    url: https://github.com/open-rmf/rmf_traffic_editor.git
+    version: bd7a2ddb9f70f7075ad7d9fc27a49d8940037706
+  rmf/rmf_utils:
+    type: git
+    url: https://github.com/open-rmf/rmf_utils.git
+    version: a64d2610eedede75c9c5c004e1ed99ec012819bb
+  rmf/rmf_visualization:
+    type: git
+    url: https://github.com/open-rmf/rmf_visualization.git
+    version: a5895234b4a4ea4c618d30c22d730d5c0c603be2
+  rmf/rmf_visualization_msgs:
+    type: git
+    url: https://github.com/open-rmf/rmf_visualization_msgs.git
+    version: c5352e03cd47c92f14c62d9947174ba53b67b664
+  slam_gmapping:
+    type: git
+    url: https://github.com/CLOBOT-Co-Ltd/slam_gmapping.git
+    version: 0559987de50371356b4caeca93e5ba59efee7543
+  thirdparty/menge_vendor:
+    type: git
+    url: https://github.com/open-rmf/menge_vendor.git
+    version: 37c888d8f6f56615efd14f1d354f381d8787c166
